@@ -346,4 +346,3 @@ Outputs the string ’s’ to the given file descriptor followed by a newline | 
 Description | Param. #1 | Param. #2 
 :-----------: | :-----------: | :-----------: 
 Outputs the integer ’n’ to the given file descriptor | The integer to output | The file descriptor on which to write
-![image](https://github.com/Huynh-Vy/libft-printf-getNextLine/assets/87691625/bb2acb21-cfa8-4a41-ae46-a4e2f136193b)
