@@ -44,8 +44,6 @@ Then simply run this command (change "xx" with desired buffer size) :
 gcc -Wall -Werror -Wextra -D BUFFER_SIZE=xx get_next_line.c get_next_line_utils.c && ./a.out
 ```
 
-Or you can also use this third party tester to fully test the project
-
-* [Francinette](https://github.com/xicodomingues/francinette)
+Or you can also use this third party tester to fully test the project [Francinette](https://github.com/xicodomingues/francinette)
 
 
