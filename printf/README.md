@@ -46,4 +46,4 @@ gcc main.c libftprintf.a
 ./a.out
 ```
 ## Testing
-The function is tested with [Francinette](https://github.com/xicodomingues/francinette)![image](https://github.com/Huynh-Vy/libft-printf-getNextLine/assets/87691625/b10b8fe8-6db8-4c57-8710-72cc056973d6)
+The function is tested with [Francinette](https://github.com/xicodomingues/francinette)
